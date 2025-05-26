@@ -17,7 +17,7 @@ public:
     void setholdername(string holdername)
     {
         this->holdername = holdername;
-    }
+    } 
     void setaccnum(int acc)
     {
         this->accnum = acc;
